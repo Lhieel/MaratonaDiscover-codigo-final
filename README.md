@@ -8,5 +8,5 @@
 </ul>
 
 <h2>About project</h2>
-<p> This is a websit for financial control, developed by Mayk Brito during the course "Maratona Discover" offered by Rocktseat.</p>
+<p> This is a website for financial control, developed by Mayk Brito during the course "Maratona Discover" offered by Rocktseat.</p>
 <p>This project was used for personal study.</p>
